@@ -1,5 +1,5 @@
 - I’m @KagLex
-- Furthering a career in either web development or general software development
+- Furthering a career in Cybersecurity
 - I'm currently learning C, C++
 - I am a beginner at coding, but I am trying my best!
 - moawww < Discord
